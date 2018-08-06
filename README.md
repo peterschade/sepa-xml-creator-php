@@ -1,5 +1,4 @@
- SepaXmlCreator - by Thomas Schiffler.de
- http://www.thomasschiffler.de/tag/sepa-xml-creator-php/
+ SepaXmlCreator - original by Thomas Schiffler.de
 =========================================================
 
 Einfache PHP-Klasse zur Erstellung von SEPA-konformen XML Buchungssätzen zur Übergabe an die kontoführenden Institute.
